@@ -1,0 +1,17 @@
+{
+    "profile":{
+        "rol": "Desarrollador Frond-end",
+        "description": " Estudiante de Diseño Grafico en las aplicaciones de Adove Photoshop, Adove Ilustrador, Adove Indecing y Programacione en Html y Css."
+    },
+    "experience": {
+        "first-job-title": "Desarrolladores de Frond End",
+        "first-job-dates": "Febrero 2021 - Hasta la fecha",
+        "first-job-description": "Programa en Java, Programa en HTML, Programa en CSS, Habilidades de diseño visual",
+        "second-job-title": "Desarrollo Publicitarios",
+        "second-job-dates": "Febrero 2021 - Mayo 2022",
+        "second-job-description": "El dolor en sí Los calma y contrarresta las molestias de la vida",
+        "last-job-title": "Diseñador gráfico",
+        "last-job-dates": "Junio ​​2021 - julio 2022",
+        "last-job-description": "Creación de marca, Posicionamiento de marca, Comunicación visual de una empresa, Gestión óptima de recursos"
+    }
+}
